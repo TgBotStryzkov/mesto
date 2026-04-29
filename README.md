@@ -92,7 +92,7 @@ npm run deploy
 
 ## Ссылка на проект
 
-GitHub Pages: `https://TgBotStryzkov.github.io/mesto/`
+GitHub Pages: `https://tgbotstryzkov.github.io/mesto/`
 
 ## Автор
 
